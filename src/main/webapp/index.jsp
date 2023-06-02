@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	원격저장소에 저장합니다
 </body>
 </html>
