@@ -1,4 +1,3 @@
-<%@page import="java.util.Date"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -8,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%=new Date() %>
+	원격저장소에 저장합니다
 </body>
 </html>
